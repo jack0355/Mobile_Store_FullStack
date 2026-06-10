@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mobile_Store_Progressed")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1001b2d6d84162b01a43958ba6a64f2cadac6727")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mobile_Store_Progressed")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mobile_Store_Progressed")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
